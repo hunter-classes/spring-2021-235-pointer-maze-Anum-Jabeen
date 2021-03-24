@@ -1,10 +1,10 @@
 * Fall 2021 235 Pointer Maze
 
-* Last name:
+* Last name: Jabeen
 
-* First name:
+* First name: Anum
 
-* GitHub username:
+* GitHub username: Anum-Jabeen
 
 * Notes:
 
