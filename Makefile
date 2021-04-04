@@ -1,5 +1,5 @@
 OBJECTS=Main.o Labyrinth.o MazeGenerator.o
-CXXFLAGS= -g
+CXXFLAGS += -std=c++11 -g
 LDFLAGS=
 CXX=g++
 
