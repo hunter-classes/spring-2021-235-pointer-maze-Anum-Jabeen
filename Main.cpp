@@ -12,7 +12,8 @@
 const std::string kYourName = "Anum";
 
 /* Change these constants to contain the paths out of your mazes. */
-const std::string kPathOutOfNormalMaze = "TODO";
+//west->west->south->south->north->east->south->east->east->north->north->south->south->west->south->west->west
+const std::string kPathOutOfNormalMaze = "WWSSNESEENNSSWSWW";
 //const std::string kPathOutOfTwistyMaze = "";
 
 int main() {
